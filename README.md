@@ -18,7 +18,7 @@ We also strongly recommend that you do a small test transaction on the Alfajores
 
 ## Deployment
 
-Around 3/29/22, we will be deploying these configs (with any necessary changes). This deployment is done using a script available in the [celo monorepo](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/scripts/bash/deploy_release_contracts.sh). This script is run from the `celo-monorepo/packages/protocol` directory like this:
+Around 4/29/22, we will be deploying these configs (with any necessary changes). This deployment is done using a script available in the [celo monorepo](https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/scripts/bash/deploy_release_contracts.sh). This script is run from the `celo-monorepo/packages/protocol` directory like this:
 
 ```
 # In `celo-monorepo/packages/protocol`
